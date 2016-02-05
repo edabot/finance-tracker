@@ -1,0 +1,1 @@
+This is a finance tracker for Ruby on Rails course
